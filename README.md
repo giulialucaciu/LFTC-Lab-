@@ -1,3 +1,9 @@
+
+GIT LINK:
+https://github.com/giulialucaciu/LFTC-Lab-
+
+I uploaded two screenwhots of my result in the Temrinal.
+
 # Lexical analyzer
 
 ## Problem statement
@@ -22,5 +28,3 @@ gcc lex.yy.c
 
 The first command generates the lex.yy.c file, while the second one generates the executable a.out.
 
-
-I uploaded two screenwhots of my result in the Temrinal.
