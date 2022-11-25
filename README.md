@@ -29,7 +29,6 @@ I uploaded two screenwhots of my result in the Temrinal.
 -------------------------
 
 TERMINAL:
-
 ~~~~~~~ Symbol table ~~~~~~~
  include  0
  iostream  1
@@ -44,6 +43,7 @@ TERMINAL:
  1  10
  2  11
  0  12
+ " sum of the array without the first element is: "  13
 ~~~~~~~ End ST ~~~~~~~
 
 ~~~~~~~ Program internal form ~~~~~~~
@@ -130,6 +130,8 @@ TERMINAL:
  }  -1 
  cout  -1 
  <<  -1 
+ " sum of the array without the first element is: "  13 
+ <<  -1 
  sum  7 
  ;  -1 
  return  -1 
@@ -137,5 +139,3 @@ TERMINAL:
  ;  -1 
  }  -1 
 ~~~~~~~ End PIF ~~~~~~~
-     
---------------------------
