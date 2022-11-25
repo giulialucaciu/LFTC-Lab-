@@ -15,7 +15,7 @@ while ( i <= v[3] ) {
 sum = sum + v[i]; 
 i = i + 1; }
 } 
-cout<<sum; 
+cout<< " sum of the array without the first element is: " <<sum; 
 return 0;
 }
 
